@@ -2,7 +2,10 @@
 <html>
   <head>
     <link rel="stylesheet" href="styles.css">
-    <title>Page Title</title>
+    <link rel="apple-touch-icon" href="apple-touch-icon.png"/> 
+    <link rel="icon" href="favicon-16x16.png"/> 
+    <link rel="icon" href="favicon-32x32.png"/>  
+    <title>Hello, World! Form</title>
   </head>
 
   <body>
