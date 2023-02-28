@@ -1,0 +1,17 @@
+/* Due to error in MDL : https://github.com/google/material-design-lite/issues/5281
+*/
+.mdl-ripple {
+    background: #000;
+    opacity: 0.001;
+  }
+
+  body {
+    background-color: #e6e6fa;
+  }
+
+  h1 {
+    background-color: #e0ffff;
+    text-align: center;
+    padding: 60px;
+    font-size: 40px;
+  }
