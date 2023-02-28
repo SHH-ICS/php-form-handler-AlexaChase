@@ -8,7 +8,7 @@
   <body>
     
     <?php
-    $userName = "name";
+    $userName = "";
     if ( isset( $_POST['userName'] ) ){
       $userName = $_POST['userName'];
     }
